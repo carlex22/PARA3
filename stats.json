@@ -1,0 +1,25 @@
+{
+  "total_global_paginas": 26,
+  "total_global_processos": 1066,
+  "ritmo_sessao": {
+    "5min": {
+      "novas_paginas": 102,
+      "media_pag_min": 20.4,
+      "novos_processos": 626,
+      "media_proc_min": 125.2
+    },
+    "30min": {
+      "novas_paginas": 122,
+      "media_pag_min": 4.07,
+      "novos_processos": 1066,
+      "media_proc_min": 35.53
+    },
+    "180min": {
+      "novas_paginas": 122,
+      "media_pag_min": 0.68,
+      "novos_processos": 1066,
+      "media_proc_min": 5.92
+    }
+  },
+  "timestamp_atualizacao": "2026-01-16T21:12:09.011451"
+}
