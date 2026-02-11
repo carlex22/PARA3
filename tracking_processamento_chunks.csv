@@ -35,7 +35,7 @@ chunk_id,status,timestamp_inicio,timestamp_fim,total_processado,worker_id
 000034,concluido,2026-02-11T20:04:40.059134,2026-02-11T20:12:01.771178,8,worker-03dc20ef
 000035,concluido,2026-02-11T20:12:08.541888,2026-02-11T20:21:29.176713,7,worker-03dc20ef
 000036,concluido,2026-02-11T20:21:35.747101,2026-02-11T20:28:59.421612,6,worker-03dc20ef
-000037,em_espera,,,0,
+000037,em_processamento,2026-02-11T20:29:05.498077,,0,worker-03dc20ef
 000038,em_espera,,,0,
 000039,em_espera,,,0,
 000040,em_espera,,,0,
