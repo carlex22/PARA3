@@ -1,23 +1,23 @@
 {
   "status": "running",
-  "timestamp": "2026-04-17T22:35:15.209029Z",
+  "timestamp": "2026-04-17T22:36:06.115421Z",
   "docs_escritos": 10000,
   "janelas_ok": 0,
   "janelas_erro": 0,
-  "flush_count": 20,
+  "flush_count": 21,
   "erros_arquivo": 89,
   "ritmo": {
     "5min": {
-      "novos_docs": 0,
-      "media_doc_min": 0.0
+      "novos_docs": 500,
+      "media_doc_min": 100.0
     },
     "30min": {
-      "novos_docs": 0,
-      "media_doc_min": 0.0
+      "novos_docs": 500,
+      "media_doc_min": 16.67
     },
     "180min": {
-      "novos_docs": 0,
-      "media_doc_min": 0.0
+      "novos_docs": 500,
+      "media_doc_min": 2.78
     }
   }
 }
