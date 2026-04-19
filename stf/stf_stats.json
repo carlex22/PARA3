@@ -1,32 +1,32 @@
 {
   "status": "done",
-  "timestamp": "2026-04-19T07:57:38.854665Z",
-  "pagina_atual": 2,
-  "total_paginas": 3,
-  "docs_escritos": 900145,
-  "total_docs_estimado": 108,
+  "timestamp": "2026-04-19T07:58:06.674344Z",
+  "pagina_atual": 1,
+  "total_paginas": 2,
+  "docs_escritos": 900639,
+  "total_docs_estimado": 93,
   "paginas_com_erro": 0,
-  "flush_count": 1772,
-  "pct_completo": 66.67,
+  "flush_count": 1773,
+  "pct_completo": 50.0,
   "eta_minutos": 0,
   "ritmo": {
     "5min": {
       "novas_paginas": 140,
-      "novos_docs": 4628,
+      "novos_docs": 4704,
       "media_pag_min": 28.0,
-      "media_doc_min": 925.6
+      "media_doc_min": 940.8
     },
     "30min": {
-      "novas_paginas": 794,
-      "novos_docs": 32401,
-      "media_pag_min": 26.47,
-      "media_doc_min": 1080.03
+      "novas_paginas": 795,
+      "novos_docs": 32284,
+      "media_pag_min": 26.5,
+      "media_doc_min": 1076.13
     },
     "180min": {
-      "novas_paginas": 4424,
-      "novos_docs": 208549,
-      "media_pag_min": 24.58,
-      "media_doc_min": 1158.61
+      "novas_paginas": 4429,
+      "novos_docs": 208593,
+      "media_pag_min": 24.61,
+      "media_doc_min": 1158.85
     }
   }
 }
