@@ -1,12 +1,15 @@
 {
   "status": "running",
-  "chunk_atual": 3,
+  "chunk_atual": 2,
   "chunk_start": 1,
   "chunk_end": 2075,
-  "chunks_ok": 2,
+  "chunks_ok": 1,
   "registros_total": 1000,
-  "registros_enrich": 4000,
-  "registros_skip": 0,
+  "registros_enrich": 3250,
+  "registros_skip": 500,
   "erros_api": 0,
-  "timestamp": "2026-05-12T17:48:19.192191Z"
+  "teor_extraidos": 2921,
+  "teor_erros": 300,
+  "teor_chars_total": 67017921,
+  "timestamp": "2026-05-12T21:33:15.452470Z"
 }
