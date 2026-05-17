@@ -1,15 +1,15 @@
 {
   "status": "running",
-  "chunk_atual": 1383,
-  "chunk_start": 1000,
+  "chunk_atual": 710,
+  "chunk_start": 500,
   "chunk_end": 2075,
-  "chunks_ok": 191,
-  "registros_total": 97859,
-  "registros_enrich": 622082,
-  "registros_skip": 1027,
+  "chunks_ok": 33,
+  "registros_total": 87371,
+  "registros_enrich": 107299,
+  "registros_skip": 70822,
   "erros_api": 0,
-  "teor_extraidos": 541410,
-  "teor_erros": 80524,
-  "teor_chars_total": 7134263684,
-  "timestamp": "2026-05-17T15:00:42.856844Z"
+  "teor_extraidos": 90852,
+  "teor_erros": 16447,
+  "teor_chars_total": 1852217376,
+  "timestamp": "2026-05-17T15:09:47.454516Z"
 }
